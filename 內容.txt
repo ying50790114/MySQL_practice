@@ -1,0 +1,17 @@
+MySQL 資料庫
+
+- 創建資料庫  create database
+- 創建表格  create table
+- 儲存資料  insert
+- 限制、約束  constraint
+- 修改&刪除資料  update & delete  
+- 取得資料  select 
+- 創建公司資料庫
+- 取得公司資料 
+- 聚合函數  aggregate function
+- 萬用字元  wildcard
+- 聯集  union
+- 連接  join
+- 子查詢  subquery
+- on delete
+- python 連接 MySQL
